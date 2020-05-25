@@ -3,20 +3,20 @@ import React from 'react'
 import ReactDOM from 'react-dom'
 import io from 'socket.io-client'
 import ExamsTable from './components/ExamsTable'
+import { SERVER_URL } from "./assets/js/config";
+import { SocketContext } from "./assets/js/websocket";
 
 const downloadLink = document.getElementById('download')
 const stopButton = document.getElementById('stop')
 const registerButton = document.getElementById('register_student')
 const idField = document.getElementById('student_id')
 const nameField = document.getElementById('name')
-const SERVER_URL = 'http://localhost:5000'
+
 
 stopButton.addEventListener('click', function () {
   console.log('stop')
   shouldStop = true
 })
-
-var socket = io(SERVER_URL)
 
 registerButton.onclick = function (event) {
   console.log('click')
@@ -79,6 +79,9 @@ function fetchAndUpdateTable () {
     .then(json => {
       exams = json.result
       console.log(exams)
-      ReactDOM.render((<ExamsTable rows={exams}></ExamsTable>), document.getElementById('table'))
+      ReactDOM.render((
+      <SocketContext.Provider value={socket}>
+        <ExamsTable rows={exams}></ExamsTable>
+      </SocketContext.Provider>), document.getElementById('table'))
     })
 }
