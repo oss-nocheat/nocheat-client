@@ -1,31 +1,32 @@
-@import-normalize;
+@import-normalize ;
 
 body {
-  background-color: #83c1bd;
+    background-color: #83c1bd;
 }
+
 #grid {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  margin-left: -425px;
-  margin-top: -80px;
-  display: grid;
-  grid-template-columns: 350px 0px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: -425px;
+    margin-top: -80px;
+    display: grid;
+    grid-template-columns: 350px 0px;
 }
 
 #app-title {
-  text-align: center;
-  font-size: 80px;
-  font-family: Impact Roman;
-  font-weight: bold;
-  color: #efeeed;
-  margin-bottom: -30px;
-  margin-top: 50px;
+    text-align: center;
+    font-size: 80px;
+    font-family: Impact Roman;
+    font-weight: bold;
+    color: #efeeed;
+    margin-bottom: -30px;
+    margin-top: 50px;
 }
 
 #choose-mode {
-  font-size: 50px;
-  font-family: "Impact Roman";
-  color: #e5e4e4;
-  text-align: center;
+    font-size: 50px;
+    font-family: "Impact Roman";
+    color: #e5e4e4;
+    text-align: center;
 }
