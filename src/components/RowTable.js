@@ -11,7 +11,7 @@ export default function RowTable(props) {
             </thead>
             <tbody>
             {props.rows?.map(row => {
-                return <tr onClick={props.rowClick} id={row.id}>{Object.values(row).map((value => <td key={value}>{value}</td>))}</tr>
+                return <tr onClick={props.rowClick} id={row.id}>{Object.values(row).map(((value, i) => <td key={i}>{value}</td>))}</tr>
             })}
             </tbody>
         </Table>
