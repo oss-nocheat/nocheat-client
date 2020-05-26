@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/oss-nocheat/nocheat-client/static/css/main.69155aa7.chunk.css",
+    "main.js": "/oss-nocheat/nocheat-client/static/js/main.691e7fdd.chunk.js",
+    "main.js.map": "/oss-nocheat/nocheat-client/static/js/main.691e7fdd.chunk.js.map",
+    "runtime-main.js": "/oss-nocheat/nocheat-client/static/js/runtime-main.71894960.js",
+    "runtime-main.js.map": "/oss-nocheat/nocheat-client/static/js/runtime-main.71894960.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/oss-nocheat/nocheat-client/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.dfea3457.chunk.js": "/oss-nocheat/nocheat-client/static/js/2.dfea3457.chunk.js",
+    "static/js/2.dfea3457.chunk.js.map": "/oss-nocheat/nocheat-client/static/js/2.dfea3457.chunk.js.map",
+    "index.html": "/oss-nocheat/nocheat-client/index.html",
+    "precache-manifest.5cf5483e6a9690930d170f56516c6d4c.js": "/oss-nocheat/nocheat-client/precache-manifest.5cf5483e6a9690930d170f56516c6d4c.js",
+    "service-worker.js": "/oss-nocheat/nocheat-client/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/oss-nocheat/nocheat-client/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.69155aa7.chunk.css.map": "/oss-nocheat/nocheat-client/static/css/main.69155aa7.chunk.css.map",
+    "static/js/2.dfea3457.chunk.js.LICENSE.txt": "/oss-nocheat/nocheat-client/static/js/2.dfea3457.chunk.js.LICENSE.txt",
+    "static/media/prof_button.png": "/oss-nocheat/nocheat-client/static/media/prof_button.c162a5e7.png",
+    "static/media/stu_button.png": "/oss-nocheat/nocheat-client/static/media/stu_button.c1dbd6f8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71894960.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.dfea3457.chunk.js",
+    "static/css/main.69155aa7.chunk.css",
+    "static/js/main.691e7fdd.chunk.js"
+  ]
+}
