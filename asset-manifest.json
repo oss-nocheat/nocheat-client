@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/nocheat-client/static/css/main.69155aa7.chunk.css",
-    "main.js": "/nocheat-client/static/js/main.e0863bb1.chunk.js",
-    "main.js.map": "/nocheat-client/static/js/main.e0863bb1.chunk.js.map",
+    "main.js": "/nocheat-client/static/js/main.b8462b6c.chunk.js",
+    "main.js.map": "/nocheat-client/static/js/main.b8462b6c.chunk.js.map",
     "runtime-main.js": "/nocheat-client/static/js/runtime-main.09d6cee0.js",
     "runtime-main.js.map": "/nocheat-client/static/js/runtime-main.09d6cee0.js.map",
     "static/css/2.af3c1da9.chunk.css": "/nocheat-client/static/css/2.af3c1da9.chunk.css",
     "static/js/2.9fe42cb3.chunk.js": "/nocheat-client/static/js/2.9fe42cb3.chunk.js",
     "static/js/2.9fe42cb3.chunk.js.map": "/nocheat-client/static/js/2.9fe42cb3.chunk.js.map",
     "index.html": "/nocheat-client/index.html",
-    "precache-manifest.39d1e73685c978e98184889482d300b1.js": "/nocheat-client/precache-manifest.39d1e73685c978e98184889482d300b1.js",
+    "precache-manifest.4a1bdeaa97726f733c7cf628822a1479.js": "/nocheat-client/precache-manifest.4a1bdeaa97726f733c7cf628822a1479.js",
     "service-worker.js": "/nocheat-client/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/nocheat-client/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.69155aa7.chunk.css.map": "/nocheat-client/static/css/main.69155aa7.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.9fe42cb3.chunk.js",
     "static/css/main.69155aa7.chunk.css",
-    "static/js/main.e0863bb1.chunk.js"
+    "static/js/main.b8462b6c.chunk.js"
   ]
 }
