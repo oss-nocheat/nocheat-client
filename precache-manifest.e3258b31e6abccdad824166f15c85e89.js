@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5d02c52ac97293189bbd2db238067a0c",
+    "revision": "bfded941c2593b280eb5b3e75ea5b74b",
     "url": "/nocheat-client/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nocheat-client/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "3be3bf49129138a224cb",
+    "revision": "2537f4a46b151defedfa",
     "url": "/nocheat-client/static/css/main.69155aa7.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nocheat-client/static/js/2.9fe42cb3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3be3bf49129138a224cb",
-    "url": "/nocheat-client/static/js/main.b8462b6c.chunk.js"
+    "revision": "2537f4a46b151defedfa",
+    "url": "/nocheat-client/static/js/main.6c303957.chunk.js"
   },
   {
     "revision": "0ca65835f2789882f2b3",
