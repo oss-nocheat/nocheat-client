@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/nocheat-client/precache-manifest.e3258b31e6abccdad824166f15c85e89.js"
+  "/nocheat-client/precache-manifest.a58b80b7d46c70f26c26ffa3f8b3591c.js"
 );
 
 self.addEventListener('message', (event) => {
